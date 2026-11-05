@@ -1,0 +1,27 @@
+{
+  "doctor": {
+    "createSuccess": "Doctor created successfully",
+    "getAllSuccess": "Doctors retrieved successfully",
+    "getByIdSuccess": "Doctor details retrieved successfully",
+    "updateSuccess": "Doctor updated successfully",
+    "deleteSuccess": "Doctor deleted successfully",
+    "filterOptionsSuccess": "Filter options retrieved successfully"
+  },
+  "patient": {
+    "createSuccess": "Patient created successfully",
+    "getAllSuccess": "Patients retrieved successfully",
+    "getByIdSuccess": "Patient retrieved successfully",
+    "updateSuccess": "Patient updated successfully",
+    "deleteSuccess": "Patient deleted successfully",
+    "conditionsSuccess": "Patient conditions retrieved"
+  },
+  "auth": {
+    "loginSuccess": "Login successful",
+    "registerSuccess": "User registered successfully",
+    "profileSuccess": "Authenticated profile retrieved",
+    "logoutSuccess": "Logged out successfully"
+  },
+  "analytics": {
+    "dashboardSuccess": "Dashboard metrics retrieved successfully"
+  }
+}
